@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 吉利汽车研究
-subtitle: 'GRI'
-description: '我的第一个软件框架'
+title: 吉利汽车 - 软件流程与工具开发部 
+subtitle: 'GRI-软件中心'
+description: '工作笔记'
 keywords:
 author: 龚xxx
 language: en
@@ -98,8 +98,8 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-# theme: next
-theme: landscape
+theme: next
+# theme: landscape
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
